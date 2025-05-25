@@ -496,7 +496,21 @@ button:hover {
 }
 
 
-
+.blog-post .blog-icons{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+footer{
+    background-color: #cdcaca;
+}
+.footer-container{
+    width: calc(100% - 100px);
+    margin: auto;
+    display: flex;
+    gap: 4%;
+    padding: 15px;
+}
 
 
 
