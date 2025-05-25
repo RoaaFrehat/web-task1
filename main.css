@@ -317,3 +317,17 @@ button {
 button:hover {
     background-color: teal;
 }
+
+.container-Arrivals {
+
+    max-width: 1200px;
+
+    margin: auto;
+
+    text-align: center;
+}
+
+.container-Arrivals h1 {
+
+    color: #333;
+}
