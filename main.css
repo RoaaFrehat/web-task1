@@ -488,6 +488,15 @@ button:hover {
 
 }
 
+.blog-post p {
+    font-size: 0.9em;
+    color: #555;
+    text-align: left;
+    margin: 10px;
+}
+
+
+
 
 
 
