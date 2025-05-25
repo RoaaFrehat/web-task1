@@ -252,3 +252,9 @@ p {
     margin: 20px;
 }
 
+.Featured {
+    font-size: 2em;
+    margin-bottom: 20px;
+    text-align: center;
+    display: block;
+}
