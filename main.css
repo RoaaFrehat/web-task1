@@ -447,5 +447,13 @@ button:hover {
     background-color: teal;
 }
 
+.blog-container {
+    justify-content: center;
+    padding: 20px;
+    align-items: center;
+    width: calc(100% - 100px);
+    margin: auto;
+}
+
 
 
