@@ -421,3 +421,10 @@ button:hover {
     display: inline-block;
 }
 
+
+.container-DIGITAL img {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
