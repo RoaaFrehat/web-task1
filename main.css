@@ -304,3 +304,16 @@ p {
     text-decoration: line-through;
     color: #999;
 }
+
+button {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border-color: #2bad9cef;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: teal;
+}
