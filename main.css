@@ -392,3 +392,11 @@ button:hover {
     width: calc(100% - 100px);
     margin: 40px auto;
 }
+
+
+.Reviews h2 {
+    text-align: center;
+    margin: 40px auto;
+    color: #000000;
+    font-size: xx-large;
+}
