@@ -386,3 +386,9 @@ button:hover {
 
     background-color: #2bad9cef;
 }
+
+
+.Reviews {
+    width: calc(100% - 100px);
+    margin: 40px auto;
+}
