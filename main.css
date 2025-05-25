@@ -400,3 +400,10 @@ button:hover {
     color: #000000;
     font-size: xx-large;
 }
+
+
+.reviews-card {
+    width: 23.5%;
+    box-shadow: 0 0 10px #2bad9cef;
+    padding: 15px;
+}
