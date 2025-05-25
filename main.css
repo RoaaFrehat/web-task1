@@ -428,3 +428,15 @@ button:hover {
     margin-top: 20px;
 }
 
+
+.container-DIGITAL button {
+
+    position: absolute;
+    top: 70%;
+    right: 84%;
+    padding: 10px 20px;
+    background-color: #2bad9cef;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
