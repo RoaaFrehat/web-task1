@@ -407,3 +407,8 @@ button:hover {
     box-shadow: 0 0 10px #2bad9cef;
     padding: 15px;
 }
+
+.reviews-card .review-img {
+    border-radius: 50%;
+}
+
