@@ -294,3 +294,13 @@ p {
     padding-bottom: 10px;
 
 }
+
+.price {
+    font-weight: bold;
+    color: #333;
+}
+
+.original-price {
+    text-decoration: line-through;
+    color: #999;
+}
