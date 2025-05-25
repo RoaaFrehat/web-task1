@@ -412,3 +412,7 @@ button:hover {
     border-radius: 50%;
 }
 
+
+.reviews-card p {
+    padding-bottom: 8px;
+}
