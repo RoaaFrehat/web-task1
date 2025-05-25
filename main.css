@@ -462,5 +462,13 @@ button:hover {
 }
 
 
+.blog-boxss {
+    display: flex;
+    gap: 3%;
+}
+
+
+
+
 
 
