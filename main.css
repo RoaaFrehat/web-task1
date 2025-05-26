@@ -527,3 +527,38 @@ footer .footer-img {
     padding-bottom: 10px;
 }
 
+.footer-container  ul li {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+.footer-container ul li a{
+    text-decoration: none;
+    color: #000000;
+    padding-bottom: 5px;
+}
+
+.footer-container .footer-contact{
+    width: 16.8%;   
+
+}
+.footer-container .footer-follow{
+    width: 16.8%;   
+
+}
+.footer-container .footer-news{
+    width: 16.8%;   
+
+}
+.sucribe{
+    border-radius: 30px;
+    margin: 15px auto;
+    color: #ffffff;
+    background-color: #2bad9cef;
+}
+input{
+    background-color: #ddd;
+    border-radius: 8px;
+    padding: 5px;
+}
+
