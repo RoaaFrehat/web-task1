@@ -561,3 +561,6 @@ input{
     padding: 5px;
 }
 
+.footer-contact{
+    display: flex;
+}
