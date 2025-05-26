@@ -402,6 +402,11 @@ button:hover {
 }
 
 
+.Reviews .Reviews-cards {
+    display: flex;
+    gap: 2%;
+}
+
 .reviews-card {
     width: 23.5%;
     box-shadow: 0 0 10px #2bad9cef;
